@@ -2,11 +2,9 @@
 
 
 <p align="center">
- 
-</p align="center">
-<img src="[https://i.redd.it/dp2kuk914o9y.gif](https://mir-s3-cdn-cf.behance.net/project_modules/1400/588a44195922117.66168b374ece8.gif)" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/588a44195922117.66168b374ece8.gif"/>
+</p>
 
-<p align="center">
 
 **`Epidemiologista`** | **`Analista de dados`** | **`Analista de dados`**
 
@@ -16,30 +14,29 @@ Trabalho com organização e automação de dados, construção de pipelines ETL
 
 Tenho experiência em modelagem estatística, integração de bases de dados, automação de processos e uso prático de IA e LLMs para apoio à análise e tomada de decisão em saúde pública.
 
-<h2 align="center"> <img src="https://assets-v2.lottiefiles.com/a/0b060d68-02b8-11ef-8bea-f339f93d2c88/dCRNsH0l4c.gif" width="50">  Linguagens e tecnologias  </h2>
+<h2 align="center"> <img src="https://i.pinimg.com/originals/2a/bc/30/2abc30e8edddb36244d76934fcdd005b.gif" width="50">  Linguagens e tecnologias  </h2>
 
 
-<img 
-    align="left" 
-    alt="R"
-    title="R" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png" 
-/>
-<img 
-    align="left" 
-    alt="POWER BI" 
-    title="POWER BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/250px-New_Power_BI_Logo.svg.png" 
-/>
-<img 
-    align="left" 
-    alt="python" 
-    title="python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" 
-/>
+<p align="center">
+  <img 
+      alt="R"
+      title="R" 
+      width="30px" 
+      style="padding: 0 10px;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png" 
+  />
+  <img 
+      alt="POWER BI" 
+      title="POWER BI"
+      width="30px" 
+      style="padding: 0 10px;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/250px-New_Power_BI_Logo.svg.png" 
+  />
+  <img 
+      alt="python" 
+      title="python"
+      width="30px" 
+      style="padding: 0 10px;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" 
+  />
+</p>
