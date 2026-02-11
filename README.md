@@ -4,7 +4,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/588a44195922117.66168b374ece8.gif" />
+<img src="https://i.redd.it/dp2kuk914o9y.gif" />
 
 <p align="center">
 
