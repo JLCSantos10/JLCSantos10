@@ -79,7 +79,7 @@ Pós-graduando em **Vigilância em Saúde (UnB)** e graduado em **Saúde Coletiv
   <a href="mailto:santos.joselucas.37@gmail.com">
     <img src="https://raw.githubusercontent.com/JLCSantos10/JLCSantos10/main/assets/btn-email.svg" width="106" alt="E-mail" />
   </a>
-  <a href="http://lattes.cnpq.br/9842174333177966">
+  <a href="https://lattes.cnpq.br/9842174333177966">
     <img src="https://raw.githubusercontent.com/JLCSantos10/JLCSantos10/main/assets/btn-lattes.svg" width="106" alt="Currículo Lattes" />
   </a>
 </p>
