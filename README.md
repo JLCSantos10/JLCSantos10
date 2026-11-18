@@ -6,7 +6,7 @@
 </p>
 
 
-**`Epidemiologista`** | **`Analista de dados`** | **`Analista de dados`**
+**`Epidemiologista`** | **`Analista de dados`** | **`Sanitarista`**
 
 Sou pós-graduando em Vigilância em Saúde (UnB) e graduado em Saúde Coletiva (UPE), com atuação como analista de dados na área da saúde.
 
