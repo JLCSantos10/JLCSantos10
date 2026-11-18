@@ -30,8 +30,8 @@ Pós-graduando em **Vigilância em Saúde (UnB)** e graduado em **Saúde Coletiv
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/JLCSantos10/JLCSantos10/main/assets/btn-tecnologias.svg"
-    alt="R, Python, Power BI, QGIS, RStudio, Quarto e Git"
-    width="473"
+    alt="R, Power BI, QGIS, RStudio e Git"
+    width="595"
   />
 </p>
 
